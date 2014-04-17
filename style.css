@@ -1,0 +1,27 @@
+body {
+	height:100%;
+	width:100%;
+	padding:0px;
+	margin:0px;
+}
+
+#link, p , div {
+	display: none
+}
+
+div {
+	display: inline-block;
+}
+
+.uploaded div {
+	display: none
+}
+
+.uploaded #link {
+	display: inline
+}
+
+.uploadimg {
+	max-width:90%;
+	max-width:50%;
+}
